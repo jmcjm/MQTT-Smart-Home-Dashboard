@@ -1,0 +1,17 @@
+{
+    "name": "MQTT Web Dashboard",
+    "short_name": "MqWeb",
+    "theme_color": "#333ccff",
+    "background_color": "#434343",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://mqman.ct8.pl/",
+    "description": "Secure MQTT JS Dashboard",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://mqman.ct8.pl/icon.png",
+            "sizes": "512x512"
+        }
+    ]
+}
